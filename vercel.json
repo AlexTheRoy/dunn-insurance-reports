@@ -2,20 +2,77 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/Dunn-Campaign-Overview-Since-Launch-10-15-26",
+      "destination": "/Dunn-Campaign-Overview-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Campaign-Overview-Since-Launch-10-15-26.html",
+      "destination": "/Dunn-Campaign-Overview-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Auto-Campaign-Performance-Since-Launch-10-15-26",
+      "destination": "/Dunn-Auto-Campaign-Performance-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Auto-Campaign-Performance-Since-Launch-10-15-26.html",
+      "destination": "/Dunn-Auto-Campaign-Performance-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Home-Campaign-Performance-Since-Launch-10-15-26",
+      "destination": "/Dunn-Home-Campaign-Performance-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Home-Campaign-Performance-Since-Launch-10-15-26.html",
+      "destination": "/Dunn-Home-Campaign-Performance-Since-Launch-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Inbound-Call-Review-10-15-26",
+      "destination": "/Dunn-Inbound-Call-Review-11-20-26",
+      "permanent": false
+    },
+    {
+      "source": "/Dunn-Inbound-Call-Review-10-15-26.html",
+      "destination": "/Dunn-Inbound-Call-Review-11-20-26",
+      "permanent": false
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     }
   ]

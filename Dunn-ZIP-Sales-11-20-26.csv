@@ -1,0 +1,172 @@
+zip,county,city,region,leads,auto_leads,home_leads,leads_sep,leads_oct,leads_nov,homeowners,in_status_file,quoted,sold,items,premium,inbound_callers,inbound_calls
+77568,Galveston,La Marque,Houston & Gulf Coast,1,0,1,0,0,1,1,1,1,1,1,2806.00,0,0
+79703,Midland,Midland,West Texas & Panhandle,1,1,0,0,1,0,1,1,1,1,1,1947.50,0,0
+75126,Kaufman,Forney,Dallas-Fort Worth,4,2,2,2,2,0,4,2,1,0,0,0,1,1
+77546,Galveston,Friendswood,Houston & Gulf Coast,2,0,2,0,2,0,2,2,1,0,0,0,0,0
+78573,Hidalgo,Mission,Rio Grande Valley,2,1,1,0,2,0,2,1,1,0,0,0,0,0
+75570,Bowie,New Boston,East Texas,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+76049,Hood,Granbury,Dallas-Fort Worth,1,1,0,1,0,0,1,0,1,0,0,0,1,1
+76501,Bell,Temple,Austin & Central Texas,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+78596,Hidalgo,Weslaco,Rio Grande Valley,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+77640,Jefferson,Port Arthur,Golden Triangle,4,1,3,1,3,0,4,1,0,0,0,0,1,1
+76903,Tom Green,San Angelo,West Texas & Panhandle,3,1,2,0,2,1,3,1,0,0,0,0,1,1
+77584,Brazoria,Pearland,Houston & Gulf Coast,3,0,3,3,0,0,3,0,0,0,0,0,0,0
+78552,Cameron,Harlingen,Rio Grande Valley,3,1,2,2,1,0,2,0,0,0,0,0,0,0
+75002,Collin,Parker,Dallas-Fort Worth,2,2,0,1,1,0,2,1,0,0,0,0,0,0
+75067,Denton,Lewisville,Dallas-Fort Worth,2,2,0,2,0,0,0,0,0,0,0,0,0,0
+75090,Grayson,Sherman,Dallas-Fort Worth,2,0,2,0,1,1,2,2,0,0,0,0,0,0
+75098,Collin,Wylie,Dallas-Fort Worth,2,1,1,1,1,0,2,1,0,0,0,0,0,0
+75407,Collin,Princeton,Dallas-Fort Worth,2,2,0,1,1,0,2,1,0,0,0,0,0,0
+75460,Lamar,Paris,East Texas,2,1,1,1,1,0,1,0,0,0,0,0,0,0
+76018,Tarrant,Arlington,Dallas-Fort Worth,2,2,0,1,1,0,2,1,0,0,0,0,0,0
+76036,Tarrant,Crowley,Dallas-Fort Worth,2,1,1,0,1,1,2,2,0,0,0,0,0,0
+76058,Johnson,Joshua,Dallas-Fort Worth,2,2,0,1,1,0,2,0,0,0,0,0,0,0
+76240,Cooke,Gainesville,Dallas-Fort Worth,2,2,0,2,0,0,2,0,0,0,0,0,0,0
+76543,Bell,Killeen,Austin & Central Texas,2,1,1,1,1,0,2,1,0,0,0,0,0,0
+77088,Harris,Houston,Houston & Gulf Coast,2,0,2,2,0,0,2,0,0,0,0,0,0,0
+77089,Harris,Houston,Houston & Gulf Coast,2,0,2,2,0,0,2,0,0,0,0,0,0,0
+77517,Galveston,Santa Fe,Houston & Gulf Coast,2,1,1,2,0,0,2,0,0,0,0,0,1,1
+77535,Liberty,Dayton,Houston & Gulf Coast,2,0,2,0,2,0,2,1,0,0,0,0,0,0
+77539,Galveston,Dickinson,Houston & Gulf Coast,2,2,0,1,1,0,1,1,0,0,0,0,0,0
+77562,Harris,Highlands,Houston & Gulf Coast,2,2,0,2,0,0,0,0,0,0,0,0,0,0
+77583,Brazoria,Rosharon,Houston & Gulf Coast,2,2,0,2,0,0,1,0,0,0,0,0,0,0
+77591,Galveston,Texas City,Houston & Gulf Coast,2,1,1,2,0,0,2,0,0,0,0,0,0,0
+77632,Orange,Orange,Golden Triangle,2,0,2,2,0,0,2,0,0,0,0,0,0,0
+77705,Jefferson,Beaumont,Golden Triangle,2,1,1,1,1,0,2,0,0,0,0,0,0,0
+78114,Wilson,Floresville,San Antonio & South Texas,2,1,1,1,1,0,2,1,0,0,0,0,0,0
+78207,Bexar,San Antonio,San Antonio & South Texas,2,2,0,2,0,0,2,0,0,0,0,0,0,0
+78217,Bexar,San Antonio,San Antonio & South Texas,2,1,1,1,1,0,2,0,0,0,0,0,0,0
+78223,Bexar,San Antonio,San Antonio & South Texas,2,1,1,1,1,0,2,0,0,0,0,0,0,0
+78245,Bexar,San Antonio,San Antonio & South Texas,2,2,0,1,1,0,2,0,0,0,0,0,1,1
+78418,Nueces,Corpus Christi,San Antonio & South Texas,2,1,1,2,0,0,2,0,0,0,0,0,0,0
+78504,Hidalgo,McAllen,Rio Grande Valley,2,1,1,1,1,0,1,1,0,0,0,0,0,0
+78550,Cameron,Harlingen,Rio Grande Valley,2,0,2,1,1,0,2,0,0,0,0,0,0,0
+78566,Cameron,Los Fresnos,Rio Grande Valley,2,0,2,1,1,0,2,0,0,0,0,0,1,1
+78852,Maverick,Eagle Pass,San Antonio & South Texas,2,1,1,0,2,0,2,0,0,0,0,0,0,0
+75007,Denton,Carrollton,Dallas-Fort Worth,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75025,Collin,Plano,Dallas-Fort Worth,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+75042,Dallas,Garland,Dallas-Fort Worth,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75052,Dallas,Grand Prairie,Dallas-Fort Worth,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75054,Dallas,Grand Prairie,Dallas-Fort Worth,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75071,Collin,McKinney,Dallas-Fort Worth,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75077,Denton,Lewisville,Dallas-Fort Worth,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+75081,Dallas,Richardson,Dallas-Fort Worth,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75087,Rockwall,Rockwall,Dallas-Fort Worth,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+75089,Dallas,Rowlett,Dallas-Fort Worth,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+75124,Henderson,Eustace,East Texas,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75135,Hunt,Caddo Mills,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+75142,Kaufman,Kaufman,Dallas-Fort Worth,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75154,Ellis,Glenn Heights,Dallas-Fort Worth,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+75160,Kaufman,Terrell,Dallas-Fort Worth,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+75165,Ellis,Waxahachie,Dallas-Fort Worth,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75189,Rockwall,Fate,Dallas-Fort Worth,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75217,Dallas,Dallas,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,1,1
+75228,Dallas,Dallas,Dallas-Fort Worth,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+75234,Dallas,Dallas,Dallas-Fort Worth,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+75241,Dallas,Dallas,Dallas-Fort Worth,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+75501,Bowie,Wake Village,East Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+75559,Bowie,De Kalb,East Texas,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+75604,Gregg,Longview,East Texas,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+75630,Cass,Avinger,East Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+75701,Smith,Tyler,East Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+75703,Smith,Tyler,East Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+75766,Cherokee,Jacksonville,East Texas,1,1,0,1,0,0,1,0,0,0,0,0,1,1
+75801,Anderson,Palestine,East Texas,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+75862,Trinity,Trinity,East Texas,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+75901,Angelina,Lufkin,East Texas,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75951,Jasper,Jasper,East Texas,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+75966,Newton,Newton,East Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+76010,Tarrant,Arlington,Dallas-Fort Worth,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+76020,Tarrant,Azle,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+76021,Tarrant,Bedford,Dallas-Fort Worth,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+76033,Johnson,Cleburne,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+76040,Tarrant,Euless,Dallas-Fort Worth,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+76048,Hood,Granbury,Dallas-Fort Worth,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+76065,Ellis,Midlothian,Dallas-Fort Worth,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+76085,Parker,Weatherford,Dallas-Fort Worth,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+76106,Tarrant,Ft. Worth,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+76112,Tarrant,Fort Worth,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+76114,Tarrant,Fort Worth,Dallas-Fort Worth,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+76117,Tarrant,Haltom City,Dallas-Fort Worth,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+76134,Tarrant,Fort Worth,Dallas-Fort Worth,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+76137,Tarrant,Fort Worth,Dallas-Fort Worth,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+76148,Tarrant,Fort Worth,Dallas-Fort Worth,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+76180,Tarrant,North Richland Hills,Dallas-Fort Worth,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+76205,Denton,Denton,Dallas-Fort Worth,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+76513,Bell,Belton,Austin & Central Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+76528,Coryell,Gatesville,Austin & Central Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+76542,Bell,Killeen,Austin & Central Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+76548,Bell,Harker Heights,Austin & Central Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+76550,Lampasas,Lampasas,Austin & Central Texas,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+76901,Tom Green,San Angelo,West Texas & Panhandle,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+77015,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77021,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77041,Harris,Houston,Houston & Gulf Coast,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+77051,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77062,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77084,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77095,Harris,Houston,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77302,Montgomery,Conroe,Houston & Gulf Coast,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+77351,Polk,Livingston,East Texas,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+77357,Montgomery,New Caney,Houston & Gulf Coast,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+77365,Montgomery,Porter,Houston & Gulf Coast,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+77379,Harris,Spring,Houston & Gulf Coast,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+77388,Harris,Spring,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77396,Harris,Humble,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,1,1
+77407,Fort Bend,Richmond,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77422,Brazoria,Brazoria,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77474,Austin,Sealy,Houston & Gulf Coast,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+77485,Austin,Wallis,Houston & Gulf Coast,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+77503,Harris,Pasadena,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77504,Harris,Pasadena,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77511,Brazoria,Alvin,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77514,Chambers,Anahuac,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77520,Harris,Baytown,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77531,Brazoria,Clute,Houston & Gulf Coast,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+77536,Harris,Deer Park,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77578,Brazoria,Manvel,Houston & Gulf Coast,1,1,0,1,0,0,1,0,0,0,0,0,1,1
+77581,Brazoria,Pearland,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+77590,Galveston,Texas City,Houston & Gulf Coast,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+77662,Orange,Vidor,Golden Triangle,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+77708,Jefferson,Beaumont,Golden Triangle,1,0,1,1,0,0,1,0,0,0,0,0,1,1
+77879,Burleson,Somerville,Austin & Central Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+77905,Victoria,Victoria,San Antonio & South Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+77979,Calhoun,Port Lavaca,Houston & Gulf Coast,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+78003,Bandera,Bandera,San Antonio & South Texas,1,1,0,0,1,0,1,0,0,0,0,0,1,1
+78010,Kerr,Center Point,San Antonio & South Texas,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+78028,Kerr,Kerrville,San Antonio & South Texas,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+78070,Comal,Spring Branch,San Antonio & South Texas,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+78132,Comal,New Braunfels,San Antonio & South Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+78163,Comal,Bulverde,San Antonio & South Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+78201,Bexar,San Antonio,San Antonio & South Texas,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+78210,Bexar,San Antonio,San Antonio & South Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+78218,Bexar,San Antonio,San Antonio & South Texas,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+78222,Bexar,San Antonio,San Antonio & South Texas,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+78224,Bexar,San Antonio,San Antonio & South Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+78227,Bexar,San Antonio,San Antonio & South Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+78250,Bexar,San Antonio,San Antonio & South Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+78251,Bexar,San Antonio,San Antonio & South Texas,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+78253,Bexar,San Antonio,San Antonio & South Texas,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+78254,Bexar,San Antonio,San Antonio & South Texas,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+78383,Jim Wells,Pernitas Point,San Antonio & South Texas,1,1,0,0,1,0,1,0,0,0,0,0,1,1
+78501,Hidalgo,McAllen,Rio Grande Valley,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+78572,Hidalgo,Mission,Rio Grande Valley,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+78574,Hidalgo,Mission,Rio Grande Valley,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+78577,Hidalgo,Pharr,Rio Grande Valley,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+78602,Bastrop,Bastrop,Austin & Central Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+78653,Travis,Manor,Austin & Central Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+78664,Williamson,Round Rock,Austin & Central Texas,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+78744,Travis,Austin,Austin & Central Texas,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+78840,Val Verde,Del Rio,San Antonio & South Texas,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+79072,Hale,Plainview,West Texas & Panhandle,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+79107,Potter,Amarillo,West Texas & Panhandle,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+79336,Hockley,Levelland,West Texas & Panhandle,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+79413,Lubbock,Lubbock,West Texas & Panhandle,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+79423,Lubbock,Lubbock,West Texas & Panhandle,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+79549,Scurry,Snyder,West Texas & Panhandle,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+79605,Taylor,Abilene,West Texas & Panhandle,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+79706,Midland,Midland,West Texas & Panhandle,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+79720,Howard,Big Spring,West Texas & Panhandle,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+79763,Ector,Odessa,West Texas & Panhandle,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+79903,El Paso,El Paso,West Texas & Panhandle,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+79936,El Paso,El Paso,West Texas & Panhandle,1,1,0,1,0,0,1,0,0,0,0,0,0,0
